@@ -24,7 +24,7 @@ Site de um desafio do FrontEndMentor, utilizando HTML e CSS. Este projeto é út
 
 ## Demo
 
-[Link para a demonstração do projeto (ainda em construção)](https://bruno-nog.github.io/verificador-email/)
+[Link para a demonstração do projeto)](https://bruno-nog.github.io/social-links-profile/)
 
 ## Contato
 
